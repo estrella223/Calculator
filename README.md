@@ -1,10 +1,10 @@
 # Calculator
 
 1. 입력 화면
-<a href="https://user-images.githubusercontent.com/89093279/148274435-97c68b61-5f81-4303-b97c-bfe69adc87aa.PNG">
+![1  계산 입력](https://user-images.githubusercontent.com/89093279/148275763-70fe09db-f37e-4099-8c59-5fc041fdaa8f.PNG)
 
 1. 결과 화면
-!https://user-images.githubusercontent.com/89093279/148274682-d7ae7160-f835-45a2-a454-510874b9dc9a.PNG
+![2  결과](https://user-images.githubusercontent.com/89093279/148275777-53b63a77-5b22-4de5-985d-133045b84171.PNG)
 
 1. 예외 처리
-!https://user-images.githubusercontent.com/89093279/148274834-7b8c3377-5967-4dd6-ac85-6f389e5a4d6b.PNG
+![zero division](https://user-images.githubusercontent.com/89093279/148275786-ea62c6fa-6f92-42de-b644-9b5bb127308d.PNG)
