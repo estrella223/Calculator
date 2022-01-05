@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/89093279/148277060-f88a676f-6ace-4278-92b5-bd4a4c2a680f.png)
 # Calculator
 
 ### 1. 입력 화면<br/>
